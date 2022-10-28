@@ -6,8 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ![image](https://user-images.githubusercontent.com/61316762/193885223-5b5954d3-9947-42de-8204-a763ab1685e3.png)
 
-# Live
-## https://sauravhathi.github.io/hide-and-seek-gifts/
+
 
 ## Available Scripts
 
